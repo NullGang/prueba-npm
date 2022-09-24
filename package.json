@@ -1,0 +1,16 @@
+{
+  "name": "npm-test-video02",
+  "version": "1.0.0",
+  "description": "Un simple npm para mostrar en un video.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NullOnRise",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
